@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x0AQjJC6EK+2BY+EamsI8rhBB4Hji8iCaL5hP+1WjjTaHcj85AX3+4YxRcye1r8R4XmckYgyLJD/qaGJXE/eWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ogarcia\\source\\repos\\OscarWebAPI\\OscarWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ogarcia\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
